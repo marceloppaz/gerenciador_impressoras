@@ -1,0 +1,302 @@
+[
+  {
+    "Marca": "Epson",
+    "Modelo": "L3250",
+    "NomeExibicao": "Epson L3250",
+    "DriverName": "EPSON L3250 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\Epson L3250\\WINX64"
+  },
+  {
+    "Marca": "Epson",
+    "Modelo": "L4260",
+    "NomeExibicao": "Epson L4260",
+    "DriverName": "EPSON L4260 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\Epson L4260\\WINX64"
+  },
+   {
+    "Marca": "Epson",
+    "Modelo": "L5190",
+    "NomeExibicao": "Epson L5190",
+    "DriverName": "EPSON L5190 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\Epson L5190\\WINX64"
+  },
+  {
+    "Marca": "Epson",
+    "Modelo": "L3110",
+    "NomeExibicao": "Epson L3110",
+    "DriverName": "EPSON L3110 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\Epson L3110\\64bits\\WINX64"
+  },
+  {
+    "Marca": "Epson",
+    "Modelo": "L220",
+    "NomeExibicao": "Epson L220",
+    "DriverName": "EPSON L220 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\Epson L220\\WINX64"
+  },
+  {
+    "Marca": "Epson",
+    "Modelo": "L3150",
+    "NomeExibicao": "Epson L3150",
+    "DriverName": "EPSON L3150 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\EPSON L3150\\WINX64"
+  },
+  {
+    "Marca": "Epson",
+    "Modelo": "L6190",
+    "NomeExibicao": "Epson L6190",
+    "DriverName": "EPSON L6190 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\EPSON L6191\\WINX64"
+  },
+  {
+    "Marca": "Epson",
+    "Modelo": "L5590",
+    "NomeExibicao": "Epson L5590",
+    "DriverName": "EPSON L5590 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\EPSON L5590\\WINX64"
+  },
+  {
+    "Marca": "Epson",
+    "Modelo": "L5290",
+    "NomeExibicao": "Epson L5290",
+    "DriverName": "EPSON L5290 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\Epson L5290 Win 10 64 Bits\\WINX64"
+  },
+   {
+    "Marca": "Ricoh",
+    "Modelo": "MP C2004ex",
+    "NomeExibicao": "Ricoh MP C2004ex",
+    "DriverName": "RICOH MP C2004 PCL 6",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Ricoh\\Ricoh MP C2004 EX\\x64\\disk1"
+  },
+  {
+    "Marca": "Ricoh",
+    "Modelo": "M320F",
+    "NomeExibicao": "Ricoh M320F",
+    "DriverName": "RICOH M 320F PCL 6",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Ricoh\\ricoh_m320f(2025)\\z96002L16\\DISK1"
+  },
+  {
+    "Marca": "Brother",
+    "Modelo": "DCP-8065DN",
+    "NomeExibicao": "Brother DCP-8065DN",
+    "DriverName": "Brother DCP-8065DN series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Brother\\BROTHER 8065DN (64)\\mflpro\\Data\\Disk1"
+  },
+  {
+    "Marca": "Brother",
+    "Modelo": "DCP-8157DN",
+    "NomeExibicao": "Brother DCP-8157DN",
+    "DriverName": "Brother DCP-8157DN Printer",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Brother\\BROTHER 8157DN\\install\\driver\\gdi\\64"
+  },
+  {
+    "Marca": "Brother",
+    "Modelo": "DCP-8150DN",
+    "NomeExibicao": "Brother DCP-8150DN",
+    "DriverName": "Brother DCP-8150DN Printer",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Brother\\BROTHER 8157DN\\install\\driver\\gdi\\64"
+  },
+  {
+    "Marca": "Brother",
+    "Modelo": "DCP-7065DN",
+    "NomeExibicao": "Brother DCP-7065DN",
+    "DriverName": "Brother DCP-7065DN Printer",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Brother\\BROTHER DCP 7065DN\\Win10 x64\\install\\driver\\gdi\\64"
+  },
+  {
+    "Marca": "Brother",
+    "Modelo": "DCP-L5652DN",
+    "NomeExibicao": "Brother DCP-L5652DN",
+    "DriverName": "Brother DCP-L5652DN Printer",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Brother\\BROTHER DCP 7065DN\\Win10 x64\\install\\driver\\gdi\\64"
+  },
+  {
+    "Marca": "Ricoh",
+    "Modelo": "SP 3510SF",
+    "NomeExibicao": "Ricoh SP 3510SF PCL 6",
+    "DriverName": "SP 3510SF PCL 6",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Ricoh\\Ricoh Aficio SP 3510SF\\DISK1 - 64bits"
+  },
+  {
+    "Marca": "Ricoh",
+    "Modelo": "IM C2000",
+    "NomeExibicao": "Ricoh IM C2000",
+    "DriverName": "PCL6 Driver for Universal Print",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Ricoh\\Ricoh IM C2000\\disk1"
+  },
+  {
+    "Marca": "Ricoh",
+    "Modelo": "SP 3710SF",
+    "NomeExibicao": "Ricoh SP3710SF",
+    "DriverName": "RICOH SP 3710SF PCL 6",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Ricoh\\RICOH SP3710 SF\\DISK1"
+  },
+  {
+    "Marca": "Ricoh",
+    "Modelo": "SP 377SFNwX",
+    "NomeExibicao": "Ricoh SP 377SFNwX",
+    "DriverName": "RICOH SP 377SFNwX PCL 6",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Ricoh\\Ricoh SP 377SFNwX\\ricoh-sp-377sfnwx-564718-x64"
+  },
+  {
+    "Marca": "Brother",
+    "Modelo": "DCP-8080DN",
+    "NomeExibicao": "Brother DCP-8080DN",
+    "DriverName": "Brother DCP-8080DN Printer",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Brother\\BROTHER 8080DN"
+  },
+  {
+    "Marca": "Samsung",
+    "Modelo": "M4080FX",
+    "NomeExibicao": "Samsung M4080FX",
+    "DriverName": "Samsung M408x Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Samsung\\Printer\\UPD"
+  },
+   {
+    "Marca": "Samsung",
+    "Modelo": "ML-2850",
+    "NomeExibicao": "Samsung ML-2850",
+    "DriverName": "SamsungML-2850_Serie",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Samsung\\Printer\\UPD"
+  },
+  {
+    "Marca": "HP",
+    "Modelo": "MFP 432",
+    "NomeExibicao": "HP MFP 432",
+    "DriverName": "HP Laser MFP 432 PCL6",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\HP\\HP MFP432\\SPL_PCL"
+  },
+  {
+    "Marca": "HP",
+    "Modelo": "MFP 4103FDW",
+    "NomeExibicao": "HP MFP 4103FDW",
+    "DriverName": "HP LaserJet Pro MFP 4101 4102 4103 4104 PCL-6 (V4)",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\HP\\HP LASER JET PRO MFP 4103FDW\\HP_LJ4101-4104_V4"
+  },
+  {
+    "Marca": "Canon",
+    "Modelo": "iR1643i",
+    "NomeExibicao": "Canon iR1643i",
+    "DriverName": "Canon Generic Plus UFR II",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Canon\\Canon iR1643i\\Generic_Plus_UFRII_v2.72_Set-up_x64\\Driver"
+  },
+  {
+    "Marca": "Canon",
+    "Modelo": "MF440",
+    "NomeExibicao": "Canon MF440",
+    "DriverName": "Canon Generic Plus PCL6",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Canon\\Canon MF440 GPlus_PCL6_Driver_V300_32_64_00\\x64\\Driver"
+  },
+  {
+    "Marca": "Canon",
+    "Modelo": "GX7010",
+    "NomeExibicao": "Canon GX7010",
+    "DriverName": "Canon GX7000 series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Canon\\Canon GX7010\\win-gx7000-1_3-n_mcd\\disk1"
+  },
+   {
+    "Marca": "Canon",
+    "Modelo": "G3010",
+    "NomeExibicao": "Canon G3010",
+    "DriverName": "Canon G3010 series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Canon\\CANON G 3110\\win\\Driver\\Driver"
+  },
+  {
+    "Marca": "Brother",
+    "Modelo": "DCP-T420W",
+    "NomeExibicao": "Brother DCP-T420W",
+    "DriverName": "Brother DCP-T420W Printer",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Brother\\BROTHER DCP T420W\\gdi"
+  },
+  {
+    "Marca": "Epson",
+    "Modelo": "L3210",
+    "NomeExibicao": "Epson L3210",
+    "DriverName": "EPSON L3210 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\Epson L3210\\WINX64"
+  },
+{
+    "Marca": "Epson",
+    "Modelo": "WFC5810",
+    "NomeExibicao": "Epson WFC5810",
+    "DriverName": "EPSON WF-C5810 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\Epson WFC5810\\WINX64"
+  },
+   {
+    "Marca": "Epson",
+    "Modelo": "L380",
+    "NomeExibicao": "Epson L380",
+    "DriverName": "EPSON L380 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\EPSON L380\\WINX64"
+  },
+   {
+    "Marca": "HP",
+    "Modelo": "MFP E52645",
+    "NomeExibicao": "HP MFP E52645",
+    "DriverName": "HP LaserJet MFP E52645 PCL-6 (V4)",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\HP\\HP MFP E52645\\disk1"
+  },
+  {
+    "Marca": "Ricoh",
+    "Modelo": "IM C3000",
+    "NomeExibicao": "Ricoh IM C3000",
+    "DriverName": "RICOH IM C3000 PCL 6",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Ricoh\\RICOH IM C3000\\z96858L18\\disk1"
+  },
+   {
+    "Marca": "Brother",
+    "Modelo": "DCP-L5512DN",
+    "NomeExibicao": "Brother DCP-L5512DN",
+    "DriverName": "Brother DCP-L5512DN Printer",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Brother\\Brother DCP-L5512DN\\gdi"
+  },
+   {
+    "Marca": "Epson",
+    "Modelo": "WF-3720",
+    "NomeExibicao": "Epson WF-3720",
+    "DriverName": "EPSON WF-3720 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\Epson WorkForce Pro WF-3720"
+  },
+    {
+    "Marca": "Lexmark",
+    "Modelo": "MX711",
+    "NomeExibicao": "Lexmark MX711",
+    "DriverName": "Lexmark MX710 Series XL",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Lexmark\\LEXMARK MX711de\\Drivers\\Print\\GDI"
+  },
+ {
+    "Marca": "Ricoh",
+    "Modelo": "MP 501",
+    "NomeExibicao": "Ricoh MP 501",
+    "DriverName": "RICOH MP 501 PCL 6",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Ricoh\\Ricoh MP 501\\Installer_64\\disk1"
+  },
+   {
+    "Marca": "Epson",
+    "Modelo": "L6270",
+    "NomeExibicao": "Epson L6270",
+    "DriverName": "EPSON L6270 Series",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Epson\\Epson L6270\\WINX64"
+  },
+   {
+    "Marca": "Gainscha",
+    "Modelo": "GA-2208D",
+    "NomeExibicao": "Gainscha GA-2208D",
+    "DriverName": "Gainscha GA-2208D",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\2025.1"
+  },
+   {
+    "Marca": "Brother",
+    "Modelo": "DCP-L5502DN",
+    "NomeExibicao": "Brother DCP-L5502DN",
+    "DriverName": "Brother DCP-L5502DN Printer",
+    "Caminho": "\\\\192.168.0.5\\suporte\\DRIVERS\\Impressoras\\Brother\\BROTHER DCP L5502DN\\gdi"
+  }
+  
+  
+]
+
+
+
+
